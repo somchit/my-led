@@ -1,0 +1,1 @@
+docker build . --tag gcr.io/my-led-251718/my-led:1.0.0

@@ -1,0 +1,2 @@
+curl -X GET https://api.line.me/things/v1/trial/products \
+-H "Authorization: Bearer 543yfvIbAXno4R7GA9VCXhtVW8Xlrz/l51rFGM+z/PKMiWnReLLRSC5Zlev1fs8iiyFttXJrnsOjI/gs2HnNK/NiZEiNdeQMvYnsuePLWNy/od5+QXyOKVnYnGF73Ef9TiU4H1icOpA06OJZixRveY9PbdgDzCFqoOLOYbqAITQ=" > uuid.json
